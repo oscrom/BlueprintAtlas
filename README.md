@@ -45,6 +45,8 @@
    ```
 3. Rebuild All
 
+**Note: drag/drop while debugging via Visual Studio does not work. Use Release**
+
 ## Roadmap
 
 - [] Feature 1
