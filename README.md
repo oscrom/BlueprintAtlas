@@ -19,7 +19,7 @@ We are a team who has spent much of our time at Esri focusing on the integration
 
 Blueprint Atlas, a melding of both CAD and GIS terms, is a simple desktop application that lets you share your CAD designs to a larger audience with relative ease. The tool requires the CAD user to drag and drop design files (of the DXF interchange format) into the program where it is them displayed on the map. The CAD designer can then use the tools within Blueprint Atlas to give some project details such as name, start date and status. The data within the design file is converted to GIS features where is then published to ArcGIS Online as a feature service. We believe that ArcGIS Online provides some of the best tools in the industry to present a community with well organized maps that can also capture requirements and information from that same community. 
 
-[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/c3y8lHF.png)
+![Product Screenshot](https://i.imgur.com/c3y8lHF.png)
 
 
 ### Technology Used
