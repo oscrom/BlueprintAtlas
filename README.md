@@ -10,7 +10,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 ## Inspiration
 
 We are a team who has spent much of our time at Esri focusing on the integration of GIS and CAD. We wanted to use this experience and expertise to help close some of the gaps we see in community improvement projects and citizen engagement. Many organizations work on projects that help communities (water networks, sewers, telecommunications, housing and more) but they often lack an easy way to get the information stored in proprietary design files to the large audience of the community these projects will affect. We feel that the more information we can provide to a community the more we can help improve that community. 
